@@ -1,0 +1,19 @@
+{
+  "name": "jwt_nodejs_demo",
+  "version": "1.0.0",
+  "description": "A demo of JWT in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "JWT",
+    "Node"
+  ],
+  "author": "Stuart Williams",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.0.0"
+  }
+}
